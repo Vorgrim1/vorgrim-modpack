@@ -2,6 +2,7 @@
   "version": "1.0.0",
   "minecraftVersion": "1.21.1",
   "loader": "NeoForge",
-  "downloadUrl": "https://github.com/Vorgrim1/vorgrim-modpack/releases/latest/download/Vorgrim-Modpack.zip",
-  "changelog": "Первая версия сборки VORGRIM."
+  "downloadUrl": "https://raw.githubusercontent.com/Vorgrim1/vorgrim-modpack/main/releases/1.0.0/Vorgrim-Modpack.zip",
+  "changelog": "Первая версия сборки VORGRIM.",
+  "sha256": "a6a8f773d5dabce5d79177d34484e39c11a948230a76bb588a0afd88521fb34a"
 }
